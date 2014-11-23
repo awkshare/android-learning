@@ -1,4 +1,4 @@
-//这个例子是计算学习成绩的优良中差，并且对不合理数据进行判断
+//这个例子是计算学习成绩的优良中差，并且对不合理数据进行判断 
 public class Test01{
 	public static void main(String args []){
 		int score = 60;
