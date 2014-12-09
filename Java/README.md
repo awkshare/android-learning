@@ -13,7 +13,14 @@ Test03.java<br>
 <b>下面的课程是十三天的魔乐Java教程</b><br>
 <b>Java教程第一天</b><br>
 Test04.java<br>
-面向对象数组	
+public class 和class定义类的区别<br>
+	public class:文件名称和类名称不一致，一个*.java文件之中只能够存在一个public class定义；
+	class：文件名称和类名称不一致，一个*.java文件之中可以同时存在多个class定义，并且编译后会形成不同的*.class文件<br>
+classpath和class的区别<br>
+	classpath:是JVM进行类加载所需要使用类加载的路径<br>
+	path:可执行程序的路径<br>
+
+<b>面向对象数组	<b>
 
 
 
