@@ -8,5 +8,7 @@ android-learning
 <b>文档</b><br />
 [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/)
 <br />
+<hr>
+魔乐Java教程不错，据说android的也不错 <br>
 
 
